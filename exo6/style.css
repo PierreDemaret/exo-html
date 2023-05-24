@@ -1,0 +1,77 @@
+body {
+    background-color: #2C3E50;
+}
+
+.rectangle-vert {
+    background-color: #2ECC71;
+    height: 70px;
+    width: 80%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    
+}
+
+.rectangle2 {
+    background-color: #2980B9;
+    height: 70px;
+    width: 20%;
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+
+.rectanglerouge {
+    background-color: #E74C3C;
+    height: 260px;
+    width: 33%;
+    top: 70px;
+    left: 0;
+    position: absolute;
+}
+
+.ligne2-1 {
+    background-color: #E67E22;
+    width: 33%;
+    height: 130px;
+    top: 70px;
+    left: 33%;
+    position: absolute;
+}
+
+.ligne2-2 {
+    background-color: #95A5A6;
+    position: absolute;
+    width: 34%;
+    height: 130px;
+    right: 0;
+    top: 70px
+}
+
+.ligne3-1 {
+    background-color: #F39C12;
+    position: absolute;
+    width: 22%;
+    height: 130px;
+    top: 200px;
+    left: 33%;
+}
+
+.ligne3-2 {
+    background-color: #16A085;
+    position: absolute;
+    width: 25%;
+    height: 130px;
+    top: 200px;
+    left: 55%;
+}
+
+.ligne3-3 {
+    background-color: #CE5B0E;
+    position: absolute;
+    width: 22%;
+    height: 130px;
+    top: 200px;
+    right: 0;
+
+}
