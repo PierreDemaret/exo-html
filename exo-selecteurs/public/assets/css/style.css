@@ -1,0 +1,7 @@
+body {
+    font-family: 'Coming Soon', cursive;
+}
+
+ol :nth-child(1) :only-child {
+    color: blue;
+}
