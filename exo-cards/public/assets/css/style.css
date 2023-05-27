@@ -1,0 +1,80 @@
+body {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-between;
+    background-color: darkslategray;
+    font-family: 'Inconsolata', monospace;
+}
+
+.cards {
+flex: 0 0 250px;
+background-color: rgb(255, 255, 255);
+text-align-last: center;
+width: 100%;
+align-content: center;
+margin: 30px auto;
+}
+
+img {
+    display: block;
+    width: 250px;
+    height: auto;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+p {
+    padding: 0 20px 0 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+figure {
+    margin: 0;
+}
+
+h2 {
+    text-align: center;
+    padding: 5px;
+}
+
+article {
+margin: 20px;    
+margin-left: 30px;
+margin-right: 30px;
+}
+
+.cards {
+    border-radius: 15px;
+
+}
+
+article {
+    box-shadow: 7px 7px rgba(0, 0, 0, 0.297);
+}
+
+#lastcard {
+margin: 0 auto;}
+
+figcaption {
+    font-weight: bold;
+}
+
+#goldcard1 {
+    background: linear-gradient( 45deg, rgba(62,62,9,1) 0%, rgba(208,172,39,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+#goldcard2 {
+    background: linear-gradient( 45deg, rgba(62,62,9,1) 0%, rgba(208,172,39,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+#goldcard3 {
+    background: linear-gradient( 45deg, rgba(62,62,9,1) 0%, rgba(208,172,39,1) 100%, rgba(0,212,255,1) 100%);
+
+}
+
+figure {
+    object-fit: contain;
+}
